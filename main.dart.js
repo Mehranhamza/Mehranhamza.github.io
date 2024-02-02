@@ -53269,7 +53269,7 @@ l=A.cL(a,q,l).w
 i=A.aH(i,255,255,255)
 s=A.rA("Plantify (Augmented Reality App)",A.HY().$1$textStyle(A.ed(q,q,B.h,q,q,q,q,q,q,q,q,20,q,q,q,q,q,!0,q,q,q,q,q,q,q,q)))
 r=t.eE
-return new A.r2(A.ol(q,A.a51(A.a([new A.ww(B.h0,B.nF,B.f1,B.eo,q,B.fL,q,A.a([n,m,k,j,h,A.ol(q,A.a2P(A.a4a(A.rA("123Plants buying app with augmented reality",A.HY().$1$textStyle(A.ed(q,q,A.aH(204,255,255,255),q,q,q,q,q,q,q,q,15,q,q,q,q,q,!0,q,q,q,q,q,q,q,q))),s),new A.w(p),50,i),B.D,q,q,q,q,q,q,q,q,q,l.a.a*0.3)],r),q),new A.wd(new A.m9("https://www.kfcpakistan.com/images/38718ee0-bc17-11ee-97ca-ad9c0958c4fc-Plain-wings-min_variant_0-2024-01-26065041.png"),200,q)],r),B.i4,B.nF,B.f1),B.D,q,q,new A.dX(q,q,q,q,q,new A.m2(B.u2,B.u1,B.cz,o,q,q),B.bC),q,q,q,q,q,q,q),q)}}
+return new A.r2(A.ol(q,A.a51(A.a([new A.ww(B.h0,B.nF,B.f1,B.eo,q,B.fL,q,A.a([n,m,k,j,h,A.ol(q,A.a2P(A.a4a(A.rA("---Plants buying app with augmented reality",A.HY().$1$textStyle(A.ed(q,q,A.aH(204,255,255,255),q,q,q,q,q,q,q,q,15,q,q,q,q,q,!0,q,q,q,q,q,q,q,q))),s),new A.w(p),50,i),B.D,q,q,q,q,q,q,q,q,q,l.a.a*0.3)],r),q),new A.wd(new A.m9("https://firebasestorage.googleapis.com/v0/b/fyp-plantify.appspot.com/o/img.jpeg?alt=media&token=cde7fcd4-1f42-4ee4-bbf3-f57137ff23a4"),200,q)],r),B.i4,B.nF,B.f1),B.D,q,q,new A.dX(q,q,q,q,q,new A.m2(B.u2,B.u1,B.cz,o,q,q),B.bC),q,q,q,q,q,q,q),q)}}
 A.pX.prototype={
 ao(){return new A.E8(B.o)}}
 A.E8.prototype={
