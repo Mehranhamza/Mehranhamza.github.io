@@ -59286,7 +59286,7 @@ d=A.i3(q,A.by(a,q,n).w.a.b*0.05,q)
 s=A.by(a,q,n).w
 e=A.aj(e,255,255,255)
 r=A.fm("Plantify (Augmented Reality App)",A.iG().$1$textStyle(A.cZ(q,q,B.h,q,q,q,q,q,q,q,q,20,q,q,q,q,q,!0,q,q,q,q,q,q,q,q)))
-return A.a9b(A.iP(q,new A.CM(A.a3x(A.a([m,k,A.a3x(A.a([j,i,h,g,f,d,A.iP(q,A.LE(A.R3(A.fm(u.s,A.iG().$1$textStyle(A.cZ(q,q,B.h,q,q,q,q,q,q,q,q,15,B.a8,q,q,q,q,!0,q,q,q,q,q,q,q,q))),r),new A.x(p),50,e),B.D,q,q,q,q,q,q,q,q,q,s.a.a*0.9),A.i3(q,A.by(a,q,n).w.a.b*0.08,q)],l),B.ca,B.cz)],l),B.ca,B.cz),q),B.D,q,q,new A.dT(q,q,q,q,q,new A.kN(B.i3,B.i1,B.bS,o,q,q),B.by),q,q,q,q,q,q,q))}}
+return A.a9b(A.iP(q,new A.CM(A.a3x(A.a([m,k,A.a3x(A.a([j,i,h,g,f,d,A.iP(q,A.LE(A.R3(A.fm(u.s,A.iG().$1$textStyle(A.cZ(q,q,B.h,q,q,q,q,q,q,q,q,15,B.a8,q,q,q,q,!0,q,q,q,q,q,q,q,q))),r),new A.x(p),50,e),B.D,q,q,q,q,q,q,q,q,q,s.a.a*0.9),A.i3(q,A.by(a,q,n).w.a.b*0.1,q)],l),B.ca,B.cz)],l),B.ca,B.cz),q),B.D,q,q,new A.dT(q,q,q,q,q,new A.kN(B.i3,B.i1,B.bS,o,q,q),B.by),q,q,q,q,q,q,q))}}
 A.x7.prototype={
 ah(){return new A.Ke(B.k)}}
 A.Ke.prototype={
